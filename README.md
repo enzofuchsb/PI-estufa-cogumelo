@@ -19,11 +19,11 @@ https://bandteccom-my.sharepoint.com/:w:/r/personal/fernando_msantos_sptech_scho
 <h3>URL do Trello para a organização do projeto</h3>
 https://trello.com/b/NNZWHx9u/pesquisa-e-inovacao-pi
 
-Contribuidores do projeto:
-Enzo Fuchs
-Igor Fuchs
-Fernando Mateus
-Fabrício Lima
-Bruno Volpe
-Luis Otavio
-Arthur Lima
+<h4>Contribuidores do projeto:</h4>
+<p>Enzo Fuchs</p>
+<p>Igor Fuchs</p>
+<p>Fernando Mateus</p>
+<p>Fabrício Lima</p>
+<p>Bruno Volpe</p>
+<p>Luis Otavio</p>
+<p>Arthur Lima</p>
